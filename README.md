@@ -2,7 +2,9 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Aayush Ghimire</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aayush+Ghimire!;" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AyushG701&label=Profile%20views&color=0e75b6&style=flat" alt="AyushG701" />
@@ -102,13 +104,13 @@
 <h2 align="center">GitHub Stats</h2>
 <table cellpadding="0" align="center">
   <tr style="padding: 0">
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=AyushG701&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats-salesp07.vercel.app/api?username=AyushG701&count_private=true&show_icons=true&theme=react&border_radius=10"/></td>
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushG701&layout=compact&theme=radical&custom_title=Languages"/></td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AyushG701&&theme=dark&show_icons=true)](https://git.io/streak-stats" /> 
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AyushG701&count_private=true&theme=react&border_radius=10%22%20alt=%22streak%20stats" /> 
 </p>
 
 <p align="center">
@@ -120,5 +122,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushG701&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushG701&theme=high-contrast&include_all_commits=true" />
 </p>
