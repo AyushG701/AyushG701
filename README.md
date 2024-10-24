@@ -65,9 +65,9 @@
   Here are some of the projects I've worked on:
 </p>
 <ul>
-  <li><b>Project Name 1:</b> A brief description of the project with <a href="#">link to the repository</a>.</li>
-  <li><b>Project Name 2:</b> A brief description of the project with <a href="#">link to the repository</a>.</li>
-  <li><b>Project Name 3:</b> A brief description of the project with <a href="#">link to the repository</a>.</li>
+  <li><b>Social Nest</b> A brief description of the project with <a href="https://github.com/AyushG701/finalyearclzproject">link to the repository</a>.</li>
+  <li><b>AI Interview</b> A brief description of the project with <a href="https://github.com/AyushG701/ai-interview">link to the repository</a>.</li>
+  <li><b>Event Scheduling:</b> A brief description of the project with <a href="https://github.com/AyushG701/event-scheduler">link to the repository</a>.</li>
 </ul>
 
 <h2 align="center">Hobbies and Interests</h2>
@@ -82,7 +82,7 @@
 
 <h2 align="center">Experience</h2>
 <p align="center">
-  <b>Company Name</b> - Job Title (Date)<br>
+  <b>Company Name</b> -Freelancing(2022)<br>
   <i>Job Description and key responsibilities.</i>
 </p>
 
